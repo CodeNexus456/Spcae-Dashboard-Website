@@ -1,0 +1,6 @@
+{
+  "name": "Space Dashboard",
+  "description": "Real-time space exploration dashboard tracking the International Space Station, upcoming rocket launches, NASA imagery, Mars rovers, and astronomy intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
